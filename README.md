@@ -1,0 +1,1 @@
+# SofaScore-Live-Scores-Activated
